@@ -31,4 +31,3 @@ int is_palindrome(listint_t **head)
     }
     return (palindrome_helper(head, *head));
 }
-
